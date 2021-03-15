@@ -1,0 +1,14 @@
+[
+    {
+        "userId": 1,
+        "id": 1,
+        "title": "Richard Ike",
+        "body": "Experienced Front End Developer with over 10 years experience"
+      },
+      {
+        "userId": 2,
+        "id": 2,
+        "title": "Aspiring Authour",
+        "body": "I am currently writing a book on front end development"
+      }
+]
